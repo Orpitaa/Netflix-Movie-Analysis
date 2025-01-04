@@ -23,6 +23,7 @@ Longer Engagement: Invest in multi-season TV shows to maintain viewer interest o
 Diverse Offerings: Increase the production of documentaries and content featuring trending artists like Salman Khan to cater to niche audiences.
 This analysis provides a comprehensive understanding of Netflix's content trends and offers actionable insights to optimize content strategy.
 
+To view the visualisation follow this link:https://public.tableau.com/views/Netflixmovieanalysis_17360064471880/NetflixDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 
